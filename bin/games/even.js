@@ -1,25 +1,16 @@
-import sayHiToPlayer from "../../src/cli.js"
-import { getRandomNumber } from "../../src/index.js";
-import readlineSync from 'readline-sync';
+import { getRandomNumber, startTheGame } from "../../src/index.js";
 
-const evenGame = () => {
-    const playerName = sayHiToPlayer();
+const isEven = (num) => num % 2 === 0;
+
+const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
+
+const evenGame = () => {  
+    const randomNumber = getRandomNumber();
+    const correctAnswer = isEven(randomNumber) ? 'yes' : 'no';
     
-    console.log('Answer "yes" if the number is even, otherwise answer "no".');
-    for (let attempt = 0; attempt < 3; attempt += 1) {
-        const randomNumber = getRandomNumber();
-        const correctAnswer = randomNumber % 2 === 0 ? 'yes' : 'no';
-        console.log(`Question: ${randomNumber}`);
-        const playerAnswer = readlineSync.question('Your answer: ');
-        if (playerAnswer === correctAnswer) {
-            console.log('Correct!');
-        } else {
-            console.log(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${playerName}!'`);
-            break;
-        }
-        if (attempt >= 3) break;
-    }
-    console.log(`Congratulations, ${playerName}!`);
+    return [randomNumber, correctAnswer];
 };
 
-export default evenGame;
+const startGame = () => startTheGame(gameDescription, evenGame);
+
+export default startGame;
