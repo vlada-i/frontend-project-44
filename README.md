@@ -20,9 +20,9 @@ This game includes five different games related with numbers.
 
 # Short guide how to play:
 
-1. Game started:
+### 1. Game started:
 
-### User see a random number. You need type 'yes' if number even or 'no' if number is odd.
+>User see a random number. You need type 'yes' if number even or 'no' if number is odd.
 
 - *Run brain-even*
 - *Welcome moment: write your name and we will definitely greet you*
@@ -33,9 +33,9 @@ This game includes five different games related with numbers.
 
 ___
 
-2. Game started:
+### 2. Game started:
 
-### User see expression. You need calculate it and type into console.
+>User see expression. You need calculate it and type into console.
 
 - *Run brain-calc*
 - *Welcome moment: write your name and we will definitely greet you*
@@ -46,9 +46,9 @@ ___
 
 ___
 
-3. Game started:
+### 3. Game started:
 
-### User see two random numbers. You need to find NOD and type it into console.
+>User see two random numbers. You need to find NOD and type it into console.
 
 - *Run brain-gcd*
 - *Welcome moment: write your name and we will definitely greet you*
@@ -59,9 +59,9 @@ ___
 
 ___
 
-4. Game started:
+### 4. Game started:
 
-### User see a arifmetic progression with one unknown number. You need understand what is the number hidden and type your answer into console.
+>User see a arifmetic progression with one unknown number. You need understand what is the number hidden and type your answer into console.
 
 - *Run brain-progression*
 - *Welcome moment: write your name and we will definitely greet you*
@@ -72,9 +72,9 @@ ___
 
 ___
 
-5. Game started:
+### 5. Game started:
 
-### User see a random number and he needs to answer prime number or not.
+>User see a random number and he needs to answer prime number or not.
 
 - *Run brain-prime*
 - *Welcome moment: write your name and we will definitely greet you*
