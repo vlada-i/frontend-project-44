@@ -25,7 +25,7 @@ This game includes five different games related with numbers.
 ***User see a random number. You need type 'yes' if number even or 'no' if number is odd.***
 
 - *Run brain-even*
-- *Welcome moment: write your name and we will definitely greet you*
+- *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
@@ -38,7 +38,7 @@ ___
 ***User see expression. You need calculate it and type into console.***
 
 - *Run brain-calc*
-- *Welcome moment: write your name and we will definitely greet you*
+- *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
@@ -51,7 +51,7 @@ ___
 ***User see two random numbers. You need to find NOD and type it into console.***
 
 - *Run brain-gcd*
-- *Welcome moment: write your name and we will definitely greet you*
+- *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
@@ -64,7 +64,7 @@ ___
 ***User see a arifmetic progression with one unknown number. You need understand what is the number hidden and type your answer into console.***
 
 - *Run brain-progression*
-- *Welcome moment: write your name and we will definitely greet you*
+- *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
@@ -77,7 +77,7 @@ ___
 ***User see a random number and he needs to answer prime number or not.***
 
 - *Run brain-prime*
-- *Welcome moment: write your name and we will definitely greet you*
+- *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
