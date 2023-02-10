@@ -38,7 +38,7 @@ const startTheGame = (gameDescription, game) => {
         if (playerAnswer === correctAnswer) {
         console.log('Correct!');
         } else {
-            console.log(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${playerName}!'`);
+            console.log(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${playerName}!`);
             return;
         }
     }   
@@ -64,10 +64,18 @@ const getProgression = () => {
     return [correctAnswer, result];
 };
 
+const isPrime = (num) => {
+    for (let i = 2, s = Math.sqrt(num); i <= s; i += 1) {
+        if (num % i === 0) return false;
+    }
+    return num > 1;
+}
+
 export {  
     getRandomNumber,
     getOper,
     startTheGame,
     getGCD,
     getProgression,
+    isPrime,
 };
