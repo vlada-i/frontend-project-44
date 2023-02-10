@@ -20,6 +20,10 @@ This game includes five different games related with numbers.
 
 # Short guide how to play:
 
+You can type ***make brain-games*** to get only hello from the game. See for example:
+
+<a href="https://asciinema.org/a/ht2YRQ6JZvh7PvNzQf0PBCk3d" target="_blank"><img src="https://asciinema.org/a/ht2YRQ6JZvh7PvNzQf0PBCk3d.svg" /></a>
+
 ### 1. Game started:
 
 ***User see a random number. You need type 'yes' if number even or 'no' if number is odd.***
@@ -30,6 +34,10 @@ This game includes five different games related with numbers.
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
 - ***GL HF!***
+
+***This is example of the game:***
+
+<a href="https://asciinema.org/a/hWkeVAfuqEzO14sdpo9WOHqIU" target="_blank"><img src="https://asciinema.org/a/hWkeVAfuqEzO14sdpo9WOHqIU.svg" /></a>
 
 ___
 
@@ -44,6 +52,10 @@ ___
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
 - ***GL HF!***
 
+***This is example of the game:***
+
+<a href="https://asciinema.org/a/t9gWoFw3JNQVEKXT0CnH4IF7a" target="_blank"><img src="https://asciinema.org/a/t9gWoFw3JNQVEKXT0CnH4IF7a.svg" /></a>
+
 ___
 
 ### 3. Game started:
@@ -56,6 +68,10 @@ ___
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
 - ***GL HF!***
+
+***This is example of the game:***
+
+<a href="https://asciinema.org/a/OXmpp6X86W4oPoVXt3tAxRkOQ" target="_blank"><img src="https://asciinema.org/a/OXmpp6X86W4oPoVXt3tAxRkOQ.svg" /></a>
 
 ___
 
@@ -70,6 +86,10 @@ ___
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
 - ***GL HF!***
 
+***This is example of the game:***
+
+<a href="https://asciinema.org/a/RMzYeEMeR2wnGmPcccQwuk2tC" target="_blank"><img src="https://asciinema.org/a/RMzYeEMeR2wnGmPcccQwuk2tC.svg" /></a>
+
 ___
 
 ### 5. Game started:
@@ -83,4 +103,7 @@ ___
 - *If you answer incorrectly, game will ends. You can restart it to try again!*
 - ***GL HF!***
 
+***This is example of the game:***
+
+<a href="https://asciinema.org/a/w6XfD6d4OEpICwSOs8MTGaB77" target="_blank"><img src="https://asciinema.org/a/w6XfD6d4OEpICwSOs8MTGaB77.svg" /></a>
 ___
