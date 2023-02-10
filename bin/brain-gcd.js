@@ -1,3 +1,3 @@
-import startGame from "./games/gcd.js";
+import startGame from './games/gcd.js';
 
 startGame();

@@ -1,3 +1,3 @@
-import startGame from "./games/prime.js";
+import startGame from './games/prime.js';
 
 startGame();
