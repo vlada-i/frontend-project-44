@@ -54,9 +54,20 @@ const getGCD = (a, b) => {
     return a;
 };
 
+const getProgression = () => {
+    const arr = [];
+    const progressionStep = getRandomNumber(1, 15);
+    for (let i = progressionStep; i <= progressionStep * getRandomNumber(5, 10); i += progressionStep) arr.push(i);
+    arr[getRandomNumber(1, arr.length - 2)] = '..';
+    const correctAnswer = arr[arr.indexOf('..') - 1] + progressionStep;
+    const result = arr.join(' ');
+    return [correctAnswer, result];
+};
+
 export {  
     getRandomNumber,
     getOper,
     startTheGame,
     getGCD,
+    getProgression,
 };
