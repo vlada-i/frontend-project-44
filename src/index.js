@@ -43,10 +43,20 @@ const startTheGame = (gameDescription, game) => {
         }
     }   
     console.log(`Congratulations, ${playerName}!`);
-}
+};
+
+const getGCD = (a, b) => {
+    while (a !== b) {
+        if (a > b) {
+            a -= b;
+        } else b -= a;
+    }
+    return a;
+};
 
 export {  
     getRandomNumber,
     getOper,
     startTheGame,
+    getGCD,
 };
