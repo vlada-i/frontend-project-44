@@ -24,7 +24,7 @@ This game includes five different games related with numbers.
 
 ***User see a random number. You need type 'yes' if number even or 'no' if number is odd.***
 
-- *Run >make brain-even*
+- *Run ***make brain-even****
 - *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
