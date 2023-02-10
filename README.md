@@ -37,7 +37,7 @@ ___
 
 ***User see expression. You need calculate it and type into console.***
 
-- *Run brain-calc*
+- *Run ***make brain-calc****
 - *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
@@ -50,7 +50,7 @@ ___
 
 ***User see two random numbers. You need to find NOD and type it into console.***
 
-- *Run brain-gcd*
+- *Run ***make brain-gcd****
 - *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
@@ -63,7 +63,7 @@ ___
 
 ***User see a arifmetic progression with one unknown number. You need understand what is the number hidden and type your answer into console.***
 
-- *Run brain-progression*
+- *Run ***make brain-progression****
 - *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
@@ -76,7 +76,7 @@ ___
 
 ***User see a random number and he needs to answer prime number or not.***
 
-- *Run brain-prime*
+- *Run ***make brain-prime****
 - *Write your name and game will say hello to you!*
 - *Get a question from us and give an answer to it*
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end you'll get grats from the game!*
