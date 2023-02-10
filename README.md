@@ -22,7 +22,7 @@ This game includes five different games related with numbers.
 
 ### 1. Game started:
 
->User see a random number. You need type 'yes' if number even or 'no' if number is odd.
+***User see a random number. You need type 'yes' if number even or 'no' if number is odd.***
 
 - *Run brain-even*
 - *Welcome moment: write your name and we will definitely greet you*
@@ -35,7 +35,7 @@ ___
 
 ### 2. Game started:
 
->User see expression. You need calculate it and type into console.
+***User see expression. You need calculate it and type into console.
 
 - *Run brain-calc*
 - *Welcome moment: write your name and we will definitely greet you*
